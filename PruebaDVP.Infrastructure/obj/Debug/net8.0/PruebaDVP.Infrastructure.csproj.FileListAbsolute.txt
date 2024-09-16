@@ -1,0 +1,17 @@
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\bin\Debug\net8.0\PruebaDVP.Infrastructure.deps.json
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\bin\Debug\net8.0\PruebaDVP.Infrastructure.runtimeconfig.json
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\bin\Debug\net8.0\PruebaDVP.Infrastructure.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\bin\Debug\net8.0\PruebaDVP.Infrastructure.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.csproj.AssemblyReference.cache
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.AssemblyInfoInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.AssemblyInfo.cs
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\refint\PruebaDVP.Infrastructure.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.genruntimeconfig.cache
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\ref\PruebaDVP.Infrastructure.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\bin\Debug\net8.0\PruebaDVP.Model.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\bin\Debug\net8.0\PruebaDVP.Model.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Infrastructure\obj\Debug\net8.0\PruebaDVP.Infrastructure.csproj.CopyComplete

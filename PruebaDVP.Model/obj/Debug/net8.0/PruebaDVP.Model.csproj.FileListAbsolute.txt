@@ -1,0 +1,11 @@
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\bin\Debug\net8.0\PruebaDVP.Model.deps.json
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\bin\Debug\net8.0\PruebaDVP.Model.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\bin\Debug\net8.0\PruebaDVP.Model.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\PruebaDVP.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\PruebaDVP.Model.AssemblyInfoInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\PruebaDVP.Model.AssemblyInfo.cs
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\PruebaDVP.Model.csproj.CoreCompileInputs.cache
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\PruebaDVP.Model.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\refint\PruebaDVP.Model.dll
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\PruebaDVP.Model.pdb
+D:\Users\Sergio Zambrano\Documents\Repos\PruebaDVP\PruebaDVP.Model\obj\Debug\net8.0\ref\PruebaDVP.Model.dll

@@ -1,0 +1,6 @@
+@PruebaDVP_HostAddress = http://localhost:5084
+
+GET {{PruebaDVP_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
